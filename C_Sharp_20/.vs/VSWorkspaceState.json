@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\GameManager",
+    "\\obj",
+    "\\Scene"
+  ],
+  "SelectedNode": "\\GameManager\\CollisionManager.cs",
+  "PreviewInSolutionExplorer": false
+}

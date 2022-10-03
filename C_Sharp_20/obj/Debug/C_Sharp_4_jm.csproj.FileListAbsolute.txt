@@ -1,0 +1,130 @@
+C:\Users\Son ji min\source\repos\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.exe.config
+C:\Users\Son ji min\source\repos\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\source\repos\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.pdb
+C:\Users\Son ji min\source\repos\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csprojAssemblyReference.cache
+C:\Users\Son ji min\source\repos\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.Form1.resources
+C:\Users\Son ji min\source\repos\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.Properties.Resources.resources
+C:\Users\Son ji min\source\repos\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csproj.GenerateResource.cache
+C:\Users\Son ji min\source\repos\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csproj.CoreCompileInputs.cache
+C:\Users\Son ji min\source\repos\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\source\repos\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.pdb
+C:\Users\Son ji min\Desktop\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.exe.config
+C:\Users\Son ji min\Desktop\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\Desktop\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.pdb
+C:\Users\Son ji min\Desktop\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csprojAssemblyReference.cache
+C:\Users\Son ji min\Desktop\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.Form1.resources
+C:\Users\Son ji min\Desktop\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.Properties.Resources.resources
+C:\Users\Son ji min\Desktop\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csproj.GenerateResource.cache
+C:\Users\Son ji min\Desktop\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csproj.CoreCompileInputs.cache
+C:\Users\Son ji min\Desktop\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\Desktop\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.pdb
+C:\Users\Administrator\Desktop\C_Sharp_4_son\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.exe.config
+C:\Users\Administrator\Desktop\C_Sharp_4_son\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.exe
+C:\Users\Administrator\Desktop\C_Sharp_4_son\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.pdb
+C:\Users\Administrator\Desktop\C_Sharp_4_son\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C_Sharp_4_son\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.Form1.resources
+C:\Users\Administrator\Desktop\C_Sharp_4_son\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C_Sharp_4_son\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C_Sharp_4_son\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C_Sharp_4_son\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.exe
+C:\Users\Administrator\Desktop\C_Sharp_4_son\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.pdb
+C:\Users\Son ji min\Desktop\C_Sharp_5\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.exe.config
+C:\Users\Son ji min\Desktop\C_Sharp_5\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\Desktop\C_Sharp_5\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.pdb
+C:\Users\Son ji min\Desktop\C_Sharp_5\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csprojAssemblyReference.cache
+C:\Users\Son ji min\Desktop\C_Sharp_5\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.Form1.resources
+C:\Users\Son ji min\Desktop\C_Sharp_5\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.Properties.Resources.resources
+C:\Users\Son ji min\Desktop\C_Sharp_5\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csproj.GenerateResource.cache
+C:\Users\Son ji min\Desktop\C_Sharp_5\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csproj.CoreCompileInputs.cache
+C:\Users\Son ji min\Desktop\C_Sharp_5\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\Desktop\C_Sharp_5\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.pdb
+C:\Users\Son ji min\Desktop\C_Sharp_6\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.exe.config
+C:\Users\Son ji min\Desktop\C_Sharp_6\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\Desktop\C_Sharp_6\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.pdb
+C:\Users\Son ji min\Desktop\C_Sharp_6\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csprojAssemblyReference.cache
+C:\Users\Son ji min\Desktop\C_Sharp_6\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.Form1.resources
+C:\Users\Son ji min\Desktop\C_Sharp_6\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.Properties.Resources.resources
+C:\Users\Son ji min\Desktop\C_Sharp_6\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csproj.GenerateResource.cache
+C:\Users\Son ji min\Desktop\C_Sharp_6\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csproj.CoreCompileInputs.cache
+C:\Users\Son ji min\Desktop\C_Sharp_6\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\Desktop\C_Sharp_6\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.pdb
+D:\Game_Programing\C#\수업\C_Sharp_7\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.exe.config
+D:\Game_Programing\C#\수업\C_Sharp_7\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.exe
+D:\Game_Programing\C#\수업\C_Sharp_7\C_Sharp_4_jm\bin\Debug\C_Sharp_4_jm.pdb
+D:\Game_Programing\C#\수업\C_Sharp_7\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csprojAssemblyReference.cache
+D:\Game_Programing\C#\수업\C_Sharp_7\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.Form1.resources
+D:\Game_Programing\C#\수업\C_Sharp_7\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.Properties.Resources.resources
+D:\Game_Programing\C#\수업\C_Sharp_7\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csproj.GenerateResource.cache
+D:\Game_Programing\C#\수업\C_Sharp_7\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.csproj.CoreCompileInputs.cache
+D:\Game_Programing\C#\수업\C_Sharp_7\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.exe
+D:\Game_Programing\C#\수업\C_Sharp_7\C_Sharp_4_jm\obj\Debug\C_Sharp_4_jm.pdb
+C:\Users\Son ji min\Desktop\C_Sharp_12\bin\Debug\C_Sharp_4_jm.exe.config
+C:\Users\Son ji min\Desktop\C_Sharp_12\bin\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\Desktop\C_Sharp_12\bin\Debug\C_Sharp_4_jm.pdb
+C:\Users\Son ji min\Desktop\C_Sharp_12\obj\Debug\C_Sharp_4_jm.csprojAssemblyReference.cache
+C:\Users\Son ji min\Desktop\C_Sharp_12\obj\Debug\C_Sharp_4_jm.Form1.resources
+C:\Users\Son ji min\Desktop\C_Sharp_12\obj\Debug\C_Sharp_4_jm.Properties.Resources.resources
+C:\Users\Son ji min\Desktop\C_Sharp_12\obj\Debug\C_Sharp_4_jm.csproj.GenerateResource.cache
+C:\Users\Son ji min\Desktop\C_Sharp_12\obj\Debug\C_Sharp_4_jm.csproj.CoreCompileInputs.cache
+C:\Users\Son ji min\Desktop\C_Sharp_12\obj\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\Desktop\C_Sharp_12\obj\Debug\C_Sharp_4_jm.pdb
+C:\Users\Administrator\Desktop\C_Sharp_12(jump)\bin\Debug\C_Sharp_4_jm.exe.config
+C:\Users\Administrator\Desktop\C_Sharp_12(jump)\bin\Debug\C_Sharp_4_jm.exe
+C:\Users\Administrator\Desktop\C_Sharp_12(jump)\bin\Debug\C_Sharp_4_jm.pdb
+C:\Users\Administrator\Desktop\C_Sharp_12(jump)\obj\Debug\C_Sharp_4_jm.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C_Sharp_12(jump)\obj\Debug\C_Sharp_4_jm.Form1.resources
+C:\Users\Administrator\Desktop\C_Sharp_12(jump)\obj\Debug\C_Sharp_4_jm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C_Sharp_12(jump)\obj\Debug\C_Sharp_4_jm.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C_Sharp_12(jump)\obj\Debug\C_Sharp_4_jm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C_Sharp_12(jump)\obj\Debug\C_Sharp_4_jm.exe
+C:\Users\Administrator\Desktop\C_Sharp_12(jump)\obj\Debug\C_Sharp_4_jm.pdb
+C:\Users\Administrator\Desktop\C_Sharp_15\bin\Debug\C_Sharp_4_jm.exe.config
+C:\Users\Administrator\Desktop\C_Sharp_15\bin\Debug\C_Sharp_4_jm.exe
+C:\Users\Administrator\Desktop\C_Sharp_15\bin\Debug\C_Sharp_4_jm.pdb
+C:\Users\Administrator\Desktop\C_Sharp_15\obj\Debug\C_Sharp_4_jm.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C_Sharp_15\obj\Debug\C_Sharp_4_jm.Form1.resources
+C:\Users\Administrator\Desktop\C_Sharp_15\obj\Debug\C_Sharp_4_jm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C_Sharp_15\obj\Debug\C_Sharp_4_jm.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C_Sharp_15\obj\Debug\C_Sharp_4_jm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C_Sharp_15\obj\Debug\C_Sharp_4_jm.exe
+C:\Users\Administrator\Desktop\C_Sharp_15\obj\Debug\C_Sharp_4_jm.pdb
+C:\Users\Administrator\Desktop\C_Sharp_17\bin\Debug\C_Sharp_4_jm.exe.config
+C:\Users\Administrator\Desktop\C_Sharp_17\bin\Debug\C_Sharp_4_jm.exe
+C:\Users\Administrator\Desktop\C_Sharp_17\bin\Debug\C_Sharp_4_jm.pdb
+C:\Users\Administrator\Desktop\C_Sharp_17\obj\Debug\C_Sharp_4_jm.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C_Sharp_17\obj\Debug\C_Sharp_4_jm.Form1.resources
+C:\Users\Administrator\Desktop\C_Sharp_17\obj\Debug\C_Sharp_4_jm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C_Sharp_17\obj\Debug\C_Sharp_4_jm.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C_Sharp_17\obj\Debug\C_Sharp_4_jm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C_Sharp_17\obj\Debug\C_Sharp_4_jm.exe
+C:\Users\Administrator\Desktop\C_Sharp_17\obj\Debug\C_Sharp_4_jm.pdb
+C:\Users\Son ji min\Desktop\C_Sharp_18\bin\Debug\C_Sharp_4_jm.exe.config
+C:\Users\Son ji min\Desktop\C_Sharp_18\bin\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\Desktop\C_Sharp_18\bin\Debug\C_Sharp_4_jm.pdb
+C:\Users\Son ji min\Desktop\C_Sharp_18\obj\Debug\C_Sharp_4_jm.csprojAssemblyReference.cache
+C:\Users\Son ji min\Desktop\C_Sharp_18\obj\Debug\C_Sharp_4_jm.Form1.resources
+C:\Users\Son ji min\Desktop\C_Sharp_18\obj\Debug\C_Sharp_4_jm.Properties.Resources.resources
+C:\Users\Son ji min\Desktop\C_Sharp_18\obj\Debug\C_Sharp_4_jm.csproj.GenerateResource.cache
+C:\Users\Son ji min\Desktop\C_Sharp_18\obj\Debug\C_Sharp_4_jm.csproj.CoreCompileInputs.cache
+C:\Users\Son ji min\Desktop\C_Sharp_18\obj\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\Desktop\C_Sharp_18\obj\Debug\C_Sharp_4_jm.pdb
+C:\Users\Administrator\Desktop\C_Sharp_19\bin\Debug\C_Sharp_4_jm.exe.config
+C:\Users\Administrator\Desktop\C_Sharp_19\bin\Debug\C_Sharp_4_jm.exe
+C:\Users\Administrator\Desktop\C_Sharp_19\bin\Debug\C_Sharp_4_jm.pdb
+C:\Users\Administrator\Desktop\C_Sharp_19\obj\Debug\C_Sharp_4_jm.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C_Sharp_19\obj\Debug\C_Sharp_4_jm.Form1.resources
+C:\Users\Administrator\Desktop\C_Sharp_19\obj\Debug\C_Sharp_4_jm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C_Sharp_19\obj\Debug\C_Sharp_4_jm.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C_Sharp_19\obj\Debug\C_Sharp_4_jm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C_Sharp_19\obj\Debug\C_Sharp_4_jm.exe
+C:\Users\Administrator\Desktop\C_Sharp_19\obj\Debug\C_Sharp_4_jm.pdb
+C:\Users\Son ji min\Desktop\C_Sharp_20\bin\Debug\C_Sharp_4_jm.exe.config
+C:\Users\Son ji min\Desktop\C_Sharp_20\bin\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\Desktop\C_Sharp_20\bin\Debug\C_Sharp_4_jm.pdb
+C:\Users\Son ji min\Desktop\C_Sharp_20\obj\Debug\C_Sharp_4_jm.csprojAssemblyReference.cache
+C:\Users\Son ji min\Desktop\C_Sharp_20\obj\Debug\C_Sharp_4_jm.Form1.resources
+C:\Users\Son ji min\Desktop\C_Sharp_20\obj\Debug\C_Sharp_4_jm.Properties.Resources.resources
+C:\Users\Son ji min\Desktop\C_Sharp_20\obj\Debug\C_Sharp_4_jm.csproj.GenerateResource.cache
+C:\Users\Son ji min\Desktop\C_Sharp_20\obj\Debug\C_Sharp_4_jm.csproj.CoreCompileInputs.cache
+C:\Users\Son ji min\Desktop\C_Sharp_20\obj\Debug\C_Sharp_4_jm.exe
+C:\Users\Son ji min\Desktop\C_Sharp_20\obj\Debug\C_Sharp_4_jm.pdb
